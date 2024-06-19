@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583991599412",
+    "project_id": "infosas-6a5bf",
+    "storage_bucket": "infosas-6a5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583991599412:android:11b44bac12273d8a814561",
+        "android_client_info": {
+          "package_name": "com.example.time_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuUAH9ZiDu8kc4x6rhr2Ph2zCq1cjbZAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
